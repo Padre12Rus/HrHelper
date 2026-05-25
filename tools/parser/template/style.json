@@ -1,0 +1,111 @@
+{
+  "version": "1.1",
+  "default": {
+    "font": "Calibri Light",
+    "size": 21,
+    "bold": false,
+    "italic": false
+  },
+  "field_styles": {
+    "fio": {
+      "font": "Calibri Light",
+      "size": 21,
+      "bold": true,
+      "uppercase": true
+    },
+    "vacancy": {
+      "font": "Calibri Light",
+      "size": 21,
+      "bold": true,
+      "uppercase": true
+    },
+    "total_year_work": {
+      "font": "Calibri Light",
+      "size": 21,
+      "bold": false,
+      "uppercase": true
+    },
+    "project_backround": {
+      "font": "Calibri Light",
+      "size": 21,
+      "bold": false,
+      "uppercase": true
+    },
+    "pitch": {
+      "font": "Calibri Light",
+      "size": 21,
+      "bold": false,
+      "uppercase": false
+    },
+    "skills_and_tools": {
+      "font": "Calibri Light",
+      "size": 21,
+      "bold": false,
+      "category_bold": true
+    },
+    "education": {
+      "font": "Calibri Light",
+      "size": 21,
+      "header_bold": true,
+      "detail_bold": false
+    },
+    "advanced_training": {
+      "font": "Calibri Light",
+      "size": 21,
+      "bold": false
+    },
+    "languages": {
+      "font": "Calibri Light",
+      "size": 21,
+      "bold": false
+    },
+    "citizenship_location": {
+      "font": "Calibri Light",
+      "size": 21,
+      "bold": false
+    },
+    "employment": {
+      "font": "Calibri Light",
+      "size": 21,
+      "bold": false
+    },
+    "status": {
+      "font": "Calibri Light",
+      "size": 21,
+      "bold": false
+    },
+    "projects": {
+      "place_time_raw": {
+        "font": "Calibri Light",
+        "size": 21,
+        "bold": false
+      },
+      "period": {
+        "font": "Calibri Light",
+        "size": 21,
+        "bold": false,
+        "uppercase": true
+      },
+      "role_in_project": {
+        "font": "Calibri Light",
+        "size": 21,
+        "bold": false
+      },
+      "task_on_project": {
+        "font": "Calibri Light",
+        "size": 21,
+        "bold": false
+      },
+      "achievements_in_project": {
+        "font": "Calibri Light",
+        "size": 21,
+        "bold": false
+      },
+      "skills_tools_in_project": {
+        "font": "Calibri Light",
+        "size": 21,
+        "bold": false
+      }
+    }
+  }
+}
